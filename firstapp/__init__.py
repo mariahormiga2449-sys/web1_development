@@ -1,0 +1,1 @@
+#encabezado con ella sabemos por donde iniciarla- un conjunto de tablas hace una base de datos
